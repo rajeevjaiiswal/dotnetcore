@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = dotNetCoreApp
+build_property.ProjectDir = /Users/rjjaiisw/codes/container-deep-dive/applications/dotNetCoreApp/
