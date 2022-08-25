@@ -44,7 +44,7 @@ Request.get(urlDispatch, (error, response, body) => {
   dispatchServiceRes=body;}
 })
 
-  res.send("Order Recieved. Processing started...\n" + inventoryServiceRes + "\n" + paymentServiceRes + "\n" + dispatchServiceRes)
+  res.send("Thanks, Order Recieved. Processing started...\n" + inventoryServiceRes + "\n" + paymentServiceRes + "\n" + dispatchServiceRes)
 })
 
 //Launch listening server on port 8080
